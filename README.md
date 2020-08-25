@@ -1,4 +1,4 @@
-openmrs-module-basicmodule
+openmrs-module-hip
 ==========================
 
 A demonstration module for new OpenMRS module developers
